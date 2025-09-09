@@ -11,15 +11,15 @@
   margin: 10px 0 12px 0;
   font-weight: 600;
   letter-spacing: 0.01em;
+  font-style: italic;
 }
 /* Profile image styling */
 .profile-pic {
   width: 150px;
   height: 150px;
-  border-radius: 12px;
+  border-radius: 0;
   object-fit: cover;
   margin-bottom: 18px;
-  border: 5px solid #fff2;
 }
 
 /* Bio paragraph styling */
@@ -50,23 +50,21 @@ body {
 
 /* Card styling */
 .card {
-  background-color: #753a89; /* Purple background */
+  background-color: #7e4093; /* Purple background */
   color: white;
   width: 750px;
   padding: 40px 48px;
-  border-radius: 20px;
+  border-radius: 0;
   text-align: center;
-  box-shadow: 0px 4px 18px rgba(0,0,0,0.13);
 }
 
 /* Image styling */
 .card img {
   width: 150px;
   height: 150px;
-  border-radius: 12px;
+  border-radius: 0;
   object-fit: cover;
   margin-bottom: 18px;
-  border: 5px solid #fff2;
 }
 
 /* Link styling */
